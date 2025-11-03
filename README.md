@@ -20,6 +20,7 @@ It provides **organized notes, solved papers, mock tests, and learning resources
 - 📄 **Notes & Papers:** Curated from top students and verified teachers  
 - 🌐 **Access:** Fully free, lightweight, and mobile-friendly  
 - 🗣️ **Community Contributions:** Reviewed suggestions and improvements before merge  
+> Future updates will expand JKBOSE Vault to include optional and cross-stream subjects such as Information Practices, EVS, , and Physical Education, creating a truly comprehensive academic resource
 
 > _Feature development begins February 2026._
 
