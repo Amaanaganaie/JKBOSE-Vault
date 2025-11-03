@@ -73,15 +73,13 @@ jkbose-vault/
 
 ---
 ## 💡 Contribute
-Contributions will open after the **Phase 1 core structure** is complete.  
-If you’re interested in collaborating, stay tuned for the contributor’s guide in February 2026.
+
+> Contributions will open after the **Phase 1 core structure** is complete.  
+If you’re interested in collaborating, stay tuned for the contributor’s guide in **February 2026**.
 ---
-
-
 ## 🗓️ Current Status
+
 Project planning stage — full development begins **after December 2025 board exams**.
-
-
 ---
 
 ## 🔗 Related Projects
@@ -93,6 +91,7 @@ This project will be released under the **MIT License** upon the completion of P
 Currently private under build.
 
 ## 🧭 Mission Statement
-> “If you can’t explain it to a six-year-old, you don’t understand it yourself## 👤 Created by
+> “If you can’t explain it to a six-year-old, you don’t understand it yourself
+## 👤 Created by
 **Amaan Ayub Ganai**  
 Founder, [AceVault](https://acevault-jee.carrd.co/) — building tech for education access.
