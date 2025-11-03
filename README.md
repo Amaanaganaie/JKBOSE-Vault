@@ -79,8 +79,8 @@ If you’re interested in collaborating, stay tuned for the contributor’s guid
 ---
 ## 🗓️ Current Status
 
-Project planning stage — full development begins **after December 2025 board exams**.
----
+Project planning stage — full development begins after December.
+
 
 ## 🔗 Related Projects
 - 🎓 [AceVault](https://acevault-jee.carrd.co/) – Affordable learning products for JEE & JKBOSE students  
